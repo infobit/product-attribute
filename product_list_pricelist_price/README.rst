@@ -71,11 +71,13 @@ Authors
 ~~~~~~~
 
 * ForgeFlow
+* Infobit
 
 Contributors
 ~~~~~~~~~~~~
 
 * Jordi Masvidal <jordi.masvidal@forgeflow.com>
+* Saul Ventura <saul@infobt.es>
 
 Maintainers
 ~~~~~~~~~~~

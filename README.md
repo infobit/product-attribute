@@ -35,6 +35,8 @@ addon | version | maintainers | summary
 [product_template_tags](product_template_tags/) | 15.0.1.0.1 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | This addon allow to add tags on products
 [sale_product_template_tags](sale_product_template_tags/) | 15.0.1.0.1 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Show product tags menu in Sale app
 
+[product_list_pricelist_price](product_list_pricelist_price/) | 15.0.1.0.0 | [![infobit](https://github.com/infobit.png?size=30px)](https://github.com/infobit)  | Display pricelist prices for products in list view.
+
 [//]: # (end addons)
 
 <!-- prettier-ignore-end -->
